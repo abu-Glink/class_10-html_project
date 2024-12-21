@@ -1,0 +1,28 @@
+
+body{
+}
+
+.header{
+    background-color: rgb(245, 245, 177);
+    padding: 10px 0;
+}
+.img_slider{
+    padding: 20px 0;
+}
+.img_height{
+    height: 800px !important;
+}
+
+.button{
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.hrLine {
+	background-color: beige;
+	margin: 86px 0 0 0;
+}
+.footer_bg{
+    color: black;
+    padding: 30px 0;
+    margin-top: 30px;
+}
